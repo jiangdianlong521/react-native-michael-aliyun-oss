@@ -1,0 +1,25 @@
+{
+  "name": "react-native-michael-aliyun-oss",
+  "version": "1.0.2",
+  "description": "React Native SDK for aliyun object storage service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiangdianlong521/react-native-michael-aliyun-oss.git"
+  },
+  "keywords": [
+    "oss",
+    "react-native",
+    "aliyun-sdk",
+    "aliyun-oss",
+    "react-native-michael-aliyun-oss"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangdianlong521/react-native-michael-aliyun-oss/issues"
+  },
+  "homepage": "git@github.com:jiangdianlong521/react-native-michael-aliyun-oss.git#readme"
+}
